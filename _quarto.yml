@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Som Dutt Battu Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Biography"
+        href: biography.qmd
+      - text: "Achievements, Performances & Honors"
+        href: achievements.qmd
+      # - text: "Performances"
+      #   href: performances.qmd
+      # - text: "Media & Press"
+      #   href: media.qmd
+      # - text: "Writings"
+      #   href: writings.qmd
+      # - text: "Contact"
+      #   href: contact.qmd
+    right:
+      - icon: wikipedia
+        href: "https://en.wikipedia.org/wiki/Som_Dutt_Battu"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 4
+
+editor: visual
+
+execute:
+  freeze: auto
