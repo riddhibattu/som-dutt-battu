@@ -17,19 +17,6 @@ This illustrious training not only connected him to the traditions of the Patial
 
 ---
 
-## Explore the Site
-
-For a deeper dive into his legacy, use the navigation tabs above to visit:
-
-- **[Biography](biography.qmd):** Discover the detailed journey of his early life, musical training, and career evolution.
-- **[Achievements](achievements.qmd):** View a comprehensive list of awards, honors, and recognitions—including the prestigious Padma Shri and various other national and international accolades.
-- **[Performances](performances.qmd):** Explore highlights from his extensive performance career, including his international engagements and concerts for distinguished dignitaries.
-- **[Media & Press](media.qmd):** Read featured excerpts from renowned publications like *The Hindu*, *The Hindustan Times*, and *Indian Express* that testify to his exceptional contributions.
-- **[Writings](writings.qmd):** Learn about his scholarly work and contributions as a writer, including his inclusion in the book **"MAN AND MUSIC IN INDIA"**.
-- **[Contact](contact.qmd):** Find all the details you need to get in touch with him, including both his permanent and temporary addresses.
-
----
-
 ## Selected Press Clippings
 
 > **The Hindu:**  
